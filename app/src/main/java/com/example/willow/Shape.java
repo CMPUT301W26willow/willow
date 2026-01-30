@@ -10,7 +10,7 @@ public abstract class Shape {
     }
     String color = "blue";
 
-
+    
     public int getX() { return x; }
     public void setX(int x) { this.x = x; }
 
