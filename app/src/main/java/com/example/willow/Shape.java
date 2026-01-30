@@ -8,7 +8,7 @@ public abstract class Shape {
         this.x = x;
         this.y = y;
     }
-    String color = "cyan";
+    String color = "blue";
 
 
     public Integer getX() {
