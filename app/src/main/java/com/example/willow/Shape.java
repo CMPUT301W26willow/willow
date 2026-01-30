@@ -3,7 +3,7 @@ package com.example.willow;
 public abstract class Shape {
     private Integer x;
     private Integer y;
-    private String color = "Purple";
+    String color = "Purple";
     public Shape(Integer x, Integer y){
         this.x = x;
         this.y = y;
