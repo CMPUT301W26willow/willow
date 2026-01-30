@@ -6,7 +6,7 @@ public class Triangle extends Shape {
     private Integer height;
 
     public Triangle(Integer x, Integer y, Integer base, Integer height) {
-        super(x, y);          // initialize Shape's x and y
+        super(x, y);          
         this.base = base;
         this.height = height;
     }
