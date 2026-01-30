@@ -7,6 +7,8 @@ public abstract class Shape {
     public Shape(Integer x, Integer y){
         this.x = x;
         this.y = y;
+        String color = "Black";
+
     }
 
     public Integer getX() {
